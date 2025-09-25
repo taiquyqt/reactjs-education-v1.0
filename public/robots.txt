@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+# Sitemap location
+Sitemap: https://www.bedpage.com/sitemap_index.xml
